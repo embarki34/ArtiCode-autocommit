@@ -80,7 +80,7 @@ python auto_committer.py
 
 ```
 [2025-06-04 11:00:01] 🔁 Git Auto Push Job started
-[2025-06-04 11:00:02] ✅ Pushed efaciliti-front-bna: Auto backup: App.js (45 changes), index.css (22 changes)
+[2025-06-04 11:00:02] ✅ Pushed <project-folder-name>: Auto backup: App.js (45 changes), index.css (22 changes)
 [2025-06-04 11:00:02] ✅ Job finished.
 ```
 
@@ -99,7 +99,7 @@ pip install pyinstaller
 ### 2. Navigate to your script folder
 
 ```bash
-cd "C:\Users\oembarki\OneDrive - condor.dz\Documents\projects\ArtiCode-autocommit"
+cd "C:\Users\<your-pc-name>\Documents\projects\ArtiCode-autocommit"
 ```
 
 ### 3. Build the Executable
